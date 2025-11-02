@@ -1,10 +1,12 @@
 ### Hi, I am Gustavo!
 
-As a web developer with over 10 years of experience, I have had the opportunity to work on a wide variety of projects, from responsive sites to complex logistics operation software. My main focus has always been on delivering high-quality products that add real value to the customer.
+As a Senior Software Engineer with 15+ years of experience crafting scalable digital solutions, I've spent the last 8 years collaborating with global teams to turn complex challenges into seamless experiences. Specializing in PHP and Laravel, I'm a go-to expert in building robust web apps, RESTful APIs, and microservices. My tools of trade also include Vue.js, PostgreSQL/MySQL, Postman testing, GitHub Actions CI/CD, and Docker containerization. From data pipelines to database tuning, I thrive on automation and optimization in fast-paced environments.
 
-Throughout my career, I have developed a deep understanding of web development best practices and have a track record of delivering solutions with the right balance between efficiency and code quality. I am proficient in several tools such as PHP, Laravel, Vue.js, PostGreSQL, and MySQL, and I have experience in developing custom solutions for various industries, including the pharmaceutical, finance, and health information industries.
+In healthtech, pharma, and financial sectors, I've led the design of high-traffic platforms handling massive datasets. Highlights include engineering a highly flexible tool for medical research that accelerated clinical trial data analysis; improving logistics tools to manage an 8x surge in data exchanges; enhancing mobile audit apps for on-the-go efficiency; and integrating EDI for frictionless CRM workflows. These innovations delivered measurable ROI while ensuring regulatory alignment.
 
-In addition, I have extensive experience working with agile methodologies, with over 6 years of experience delivering successful projects using Scrum and other agile frameworks. I believe that working collaboratively with the team and the client is key to delivering high-quality products that meet their needs and exceed their expectations.
+As a guiding force for cross-functional teams in Agile/Scrum, I foster open communication and adaptive strategies to deliver high-quality, impactful features on time. What fuels me? The thrill of leveraging tech to solve real-world problems and empower teams.
+
+Currently gearing up for AWS certifications and exploring AI integrations to supercharge project workflows.
 
 If you are looking for a skilled and experienced web developer who can help your company build high-quality products, I would love to hear more about your needs and discuss how I can contribute to your team.
 
